@@ -23,9 +23,10 @@ let s:sblue  = ['#778899', 67]
 let s:yellow = ['Yellow', 226]
 let s:red    = ['#b6403a', 160]
 let s:green  = ['#478226', 28]
+let s:nonebg = ['NONE', 0]
 
 let s:default_fg = s:lgray
-let s:default_bg = s:black
+let s:default_bg = s:nonebg
 
 let s:italic    = 'italic'
 let s:bold      = 'bold'
